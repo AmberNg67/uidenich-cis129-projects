@@ -1,3 +1,9 @@
+# Module 4 Lab-4
+# Amber Uidenich
+# March 11, 2024
+# This program determines a store bonus based on the monthly sales amount \
+#   and an emploee bonus based on percent increase in monthly sales
+
 # Declare local variables
 monthlySales = 0  # monthly sales amount
 storeAmount = 0  # store bonus amount
