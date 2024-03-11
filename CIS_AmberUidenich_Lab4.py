@@ -13,11 +13,11 @@ prompt = ("Enter your monthly sales. $ ") # prompt will be a string literal
 
 # This code gets the monthly sales
 
-monthlySales = float(input("Enter your monthly sales. $ "))
+monthlySales = float(input(prompt))
 
 #This code gets the percent of increase in sales
 
-salesIncrease = float(input("Enter the monthly Sales Increase. "))
+salesIncrease = float(input("Enter percent of Sales Increase. "))
 salesIncrease = salesIncrease/100
 
 
