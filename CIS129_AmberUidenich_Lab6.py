@@ -3,6 +3,8 @@
 # Main Module (using MOD)
 # Determine the total number of hot dogs needed
 
+import math
+
 def getTotalHotDogs():
     # Determine the total number of hot dogs needed
     people = 0 # Number of people attending the cookout
@@ -14,7 +16,6 @@ def getTotalHotDogs():
     
     #Determine the minimum number of packages of hotdogs needed
     DOGS = 8 # Number of buns in a package
-    import math
     minDogsNeeded = math.ceil(totalDogsNeeded / DOGS)
     print("You will need", minDogsNeeded, "packages of hotdogs.")
     
