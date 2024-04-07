@@ -1,6 +1,5 @@
-# CIS129 Module 6 Lab
 # Amber Uidenich
-# Main Module (using MOD)
+# CIS129 Module 6 Lab
 # Determine the total number of hot dogs needed
 
 import math
@@ -13,25 +12,49 @@ def getTotalHotDogs():
     hotdogsPerPerson = int(input("How many hot dogs will you serve each person? "))
     totalDogsNeeded = people * hotdogsPerPerson
     print("You will need", totalDogsNeeded, "hotdogs for the cookout.")
+    return totalDogsNeeded
     
     #Determine the minimum number of packages of hotdogs needed
-    DOGS = 8 # Number of buns in a package
-    minDogsNeeded = math.ceil(totalDogsNeeded / DOGS)
-    print("You will need", minDogsNeeded, "packages of hotdogs.")
-    
-    #Determine the minimum number of packages of buns needed
-    BUNS = 10 # Number of buns in a package
-    bunsNeeded = totalDogsNeeded # The number of buns needed will equal the number of hotdogs served
-    minBunsNeeded = math.ceil(bunsNeeded / BUNS)
-    print("You will need", minBunsNeeded, "packages of buns.")
-    
-    #Determine number of hotdogs left over
-    dogsLeft = (DOGS - totalDogsNeeded % DOGS) % DOGS
-    print("You will have", dogsLeft, "hotdogs left over.")
 
-    
-    #Determine number of buns left over
-    bunsLeft = (BUNS - bunsNeeded % BUNS) % BUNS
+def showResults(dogsLeft, minDogs, bunsLeft, minBuns):
+    print("You will need", minDogs, "packages of hotdogs.")
+    print("You will need", minBuns, "packages of buns.")
+    print("You will have", dogsLeft, "hotdogs left over.")
     print("You will have", bunsLeft, "buns left over.")
     
-getTotalHotDogs()
+
+# Main Module
+
+# Local variable for the total number of hot dogs needed.
+total = 0
+
+# Input --------------------------------------
+# Get the total number of hot dogs needed.
+total = getTotalHotDogs()
+
+# Processing ----------------------------------
+# Named constants for the package sizes
+DOGS = 10   # Hot dogs in a package
+BUNS = 8    # Hot dog buns in a package
+
+# Local variables
+dogsLeft = 0  # Left over hot dogs
+bunsLeft = 0 # Left over hot dog buns
+minDogs = 0  # Minimum packages of hot dogs
+minBuns = 0  # Minimum packages of hot dog buns
+
+# Calculate the number of left over hot dogs.
+dogsLeft = (DOGS - total % DOGS) % DOGS
+
+# Calculate the minimum number of packages of hot dogs.
+minDogs = math.ceil(total / DOGS)
+
+# Calculate the number of left over hot dog buns.
+bunsLeft = (BUNS - total % BUNS) % BUNS
+
+# Calculate the minimum number of packages of hot dogs buns.
+minBuns = math.ceil(total / BUNS)
+
+# Output ----------------------------------------
+# Display the results.
+showResults(dogsLeft, minDogs, bunsLeft, minBuns)
