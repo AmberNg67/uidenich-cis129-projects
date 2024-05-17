@@ -1,0 +1,188 @@
+A problem that exists in the field of education is the lack of engaging content for high school geometry students that encourages thinking, deep understanding of concepts and application practice which provides immediate feedback.
+Programs exist which are aimed at “teaching” or at least providing practice for Geometry students at the high school. Some of these programs include Edmentum, IXL, MyMathLab/MathXL, Desmos and Khan Academy. Edmentum is a program that school districts or individual can purchase which promises a complete curriculum. Edmentum claims to provide, instruction, practice and assessment. The reality is that Edmentum is not engaging, the method of instruction is mostly an animated textbook being read aloud to students. This format for instruction often does not help students to understand the material and can become confusing and frustrating. In addition, if a classroom teacher wants to use Edmentum to supplement their instruction, they may find that it does not align with the curriculum being taught and can be clunky to set up. IXL does allow students ten free practice questions but is also primarily a program that requires a subscription to get the full benefit. This program provides lessons that are primarily expecting students to read through online math text with some interactive problems along the way. This method of instruction is not accessible for average high school students and those who have reading struggles. There are some instructional videos available, which can be accessed during the practice session. IXL does offer nice practice problems that gradually increase the rigor as students excel. As far as motivation, students get instant feedback after answering a question, the correct response yields a green check mark with the phrase “Keep it up!” Students can also earn badges to track their successes. MyMathLab (or the cheaper MathXL) offers practice problems and assessments based on existing Pearson textbooks. Within the practice, students have multiple attempts to try similar problems with instant feedback. Student assistance is available in the form of textbook excerpts, videos, and step-by step problem walk throughs. The interface is rather sterile and the motivation needs to all come from the student side. I think that this program works well for motivated, mature, upper level math students and could be a part of any high school math class if the teacher is supplementing with engaging lessons. Teachers can choose from pools of questions to design assignments that match the curriculum they are teaching, especially if they are using the accompanying textbook. Desmos has recently rolled out a complete curriculum program for math for grades 6 through Algebra 1 which is available for a fee. The program is designed to be use by teachers as part of the classroom experience. Something that really sets this program apart is that it is designed to be used synchronously and involves collaboration and critiquing others reasoning. It also asks more conceptual questions about big concepts. It does provide feedback but relies heavily on teachers being involved to clarify misconceptions and provide individual feedback and intervention. The activities are interactive, animated and visually appealing. The way they are set up is more engaging than the aforementioned programs. Khan Academy is a free program that offers curriculum for a wide variety of math levels. There are interactive text pages, videos, and practice problems. The practice problems usually ask students to answer a small number correctly to show mastery. This type of chunking makes the math feel less daunting to students. When students get a correct answer they get rewarding visual and audible feedback. Khan Academy is the only one of these programs listed that is using Artificial Intelligence (AI) to interact with students. The AI feature is intended to act as a personal tutor helping students to understand specific problems they are struggling with. Teachers can assign sections that correlate to their curriculum. It is worth mentioning some features of a couple of other programs that would be ideal to integrate. No Red Ink allows students to choose TV shows they are interested in and then incorporates those interests into the problems. Knewton Alta determines the level of the next problem based on the answer to the current problem, continuously leveling the practice to the student’s growth and pushing them towards mastery.
+All of these programs offer some type of analysis to help teachers keep track of student progress, but accessing that analysis in a meaningful way can be clunky or difficult for teachers to understand. Despite some of these programs being designed with the idea of being able to be used independently of a classroom, it is doubtful that the average math student at the high school level would be able to gain a solid conceptual understanding using any of these programs in a stand-alone setting. Except for Desmos, most of the lessons and practice provided in these programs is not engaging and motivating for students. Desmos is often engaging and focuses on the big concept but lacks the repetitive practice math students often need to reach mastery and automaticity levels. Grades from the work completed on these programs do not seamlessly integrate with the variety of LMS’s used by school districts, which creates a disconnect for teacher’s using the programs. The ability for classroom teachers to choose which content they want to utilize varies between the programs, however, it can be unintuitive and frustrating to adjust.
+This problem interests me because I have been a high school math teacher in a public school district for many years. My district stopped using textbooks in the classroom over a decade ago and teachers are often left to create and share their own materials. The district provides a calendar and a list of Arizona State Standards that must be taught and assessed. During my years of teaching, I have noticed that inconsistency exists between teachers of the same subject at the same school. One issue many teachers have is finding adequate practice problems that are engaging and can be adjusted to students' individualized needs. The district is not often willing to pay for existing programs but many of us have tried using free trials or paying for them out of our own funds. A free or low cost program that offered appropriately rigorous practice that teachers could decide when and what to use might help to provide more equitable experiences. Another issue that exists is the progression of failing math students. If a student fails Algebra 1 freshman year, they are promoted to Geometry sophomore year and then again to Algebra 2 junior year regardless of proficiency. Since the state will not cover the cost of students repeating a subject, we charge students a fee to recover their credit using an online platform such as Edmentum. We also use this platform to help students mid semester in an attempt to help them build skills and improve their grade. In my experience, struggling math students have not improved their math skills using either of the platforms we have offered which means that we are continually setting them up for more failure in math classes. They often do not understand what the platform is trying to teach them, become frustrated and disengaged, and often resort to some form of cheating.
+
+Proposed Solution
+●	Low cost 
+●	Personalization
+○	Should ask student preferred name and use it
+○	Should have an inventory of student interests
+○	Should have an inventory of career fields the student is interested in
+●	Provides task list for students
+○	Task list should check off individual tasks as completed
+○	Has an overall task bar for the unit so students can gauge progress
+●	Provides direct instruction
+○	Quality video of direct instruction with interactive components and guided notes
+○	Interactive tutorial walking students through how to solve a problem type using basic numbers
+○	Provides relevancy for the objective
+■	Asks students what they already know about it
+■	Why the student needs to know it
+■	How this objective is used in real world situations
+■	What career fields this objective relates to
+●	Asks students about main ideas and the big picture concepts
+○	Has some big picture exploration activities or videos
+●	Provides practice problems
+○	Progressive rigor- should level up or down depending on students’ responses
+○	Program questions in a way that the numbers used in the problem are randomized to allow several retries of similar problems without repetition
+○	Reasonable expectation of how many mastery level questions need to be solved correctly to demonstrate mastery
+○	Various types of modalities (multiple choice, free response, drag, check, etc)
+○	Asks questions that use various levels of depth of knowledge/ Bloom’s taxonomy
+○	Task analysis / who’s correct and why questions
+○	Questions should be visually appealing to students
+○	Word problems should relate to student interests
+○	Gamification in each unit
+○	Option for classroom teachers to use collaborative practice activities
+●	Accessible for students with disabilities
+○	Utilizes screen reader technology
+○	Has text to speech and speech to text capabilities
+○	Available in Dyslexia font
+●	Provides tools to assist students
+○	imbedded calculator (Desmos)
+○	whiteboard for student work
+○	notes tab where students can save notes and refer back to them
+●	Provides student feedback and rewards/motivation
+○	Haptic/visual/audio feedback after a correct response
+○	Objective completion bar
+○	Badges and/or can be tied to teacher created class rewards
+○	Brain breaks (minigames) after 30 minutes of continuous work
+●	Provides assessment
+○	Can be used with/without a lock down browser
+○	Teacher control in question pool, partial credit, # of attempts, and level of privacy/feedback after assessment is submitted
+○	Time stamped and time limits can be set
+○	Assessment scores feed into auto-assigning related reteach/enrich assignments
+●	Provides Usable Analysis to teachers
+○	Group, class, and individual analysis per objective and per unit
+○	Graphs and raw data charts
+○	Messages about which problems and objectives students are struggling the most with
+○	Messages about which students are struggling with concepts
+○	Messages about when students are not active
+○	Ability for teachers to watch a students screen in real time
+●	Easily links to common LMS’s
+○	Common LMS: Google Classroom, Canvas, Schoology, D2L
+○	Imports grades to LMS
+○	Links to LMS so that students can directly access assignments via LMS
+●	Easy backside interface allows teachers to choose objectives to assign
+○	Visually appealing, clean and clear teacher interface
+○	Actions teachers can take should be intuitive
+○	Allow complete customization
+○	Maybe have an AI help feature that provides details on how to use different components of the interface
+○	Allows teachers to control availability, due dates, and exceptions
+●	Allows students to review previously completed assignments without altering grades
+●	Provides weekly progress reports that can be automated to email students and parents
+○	Sends notifications to students about upcoming deadlines (opt in)
+
+
+Pseudocode
+This part is going to be somewhat vague as my program design is huge and my software development understanding is minute. 
+main()
+	print(‘Hello, {username}! Welcome to Mathblahblahblah! Here are some topics for you to work on today. Please choose the one you are most interested in.’)
+	requiredStandards()
+def userInventory()
+	get input {username} “What is your preferred name?”
+	store {username}
+	get input {avatar} “ Choose an avatar you’d like to use?”
+		provide choices of avatars
+	store {avatar}
+	get input {sound} “Choose a sound that you enjoy hearing” – Provide sounds
+	store{sound}
+	get input {social interests}- Provide checkboxes of things students may like
+-	Sports (list types, teams)
+-	Movies/TV Shows (list genres, popular movies/ TV shows)
+-	Music (list genres, popular bands/musicians)
+-	Books (list genres, popular book titles)
+-	Brands (list popular brands)
+-	Cars (list genres,types, makes/models)
+-	Video Games (list systems, genres, current/ popular games)
+store {social interests}
+
+get input {careers} “What careers are you interested in?” (list career choices)
+store input {careers}
+	
+	def CreateTaskList ()
+		import info from CurrentObjectives
+		display objectives from CurrentObjectives in a list format
+
+	def CheckTaskList()
+		while an objective remains in the task list:
+			if an objective is completed:
+				create star next to completed objective
+				increase percent complete on task bar
+		else:
+			confetti()
+print(‘Congratulations! You have completed all of the tasks for {standard}. Great work!’)
+	def ChooseStandard()
+		get input “ Check off standards student{username} needs to work on today.”
+		store input by creating a calendar of standards
+
+\\ Create a collection of standards and related objectives, maybe similar to a dictionary, this should be viewed on the GUI as buttons or links
+	GeometryStandards = [
+		{‘standard’: ‘Standard 1’, ‘objective1’: ‘Objective 1 Title’, etc.},
+		{‘standard’: ‘Standard 2’, ‘objective1’: ‘Objective 1 Title’, etc.},
+		{‘standard’: ‘Standard 3’, ‘objective1’: ‘Objective 1 Title’, etc.},
+	]
+\\ An objective might be set up like a class because each objective will have functions that are shared for all objectives and specific to individual objectives. 
+
+Class Objectives():
+	def __init__{self, SWBAT, relevance, video, interactive, practice, assess}
+Each instance objective will store data in the following areas:
+SWBAT- student friendly objective statements “Student will be able to …”
+relevance – relevance statement for the objective, may import {careers} from inventory
+video- a series of short instructional videos providing direct instruction for objective
+interactive- an interactive walk through of solving problems related to video
+practice- a set of mutable/ randomized practice problems
+	if correct move forward, if incorrect move back
+assess- assessment options and questions for the objective
+
+\\Active Student Time Tracker 
+	time = {days, hours, minutes, seconds}
+	time +=1 (for every second student is logged in)
+	\\timer should stop if student switches off the tab
+
+\\ Integrate existing accessibility features such as screen reader, text to speech, Dyslexia font
+
+\\ Create motivational functions
+	
+	def correctAnswer():
+		if answer = True:
+			sound()
+			hapticFeedback()
+			fireworks()
+		else:
+			print(‘Not, yet’)
+			tryAgain()
+
+\\ Store data from Standards/objectives practice and assessment and export to teacher dashboard, auto formulate graphs
+
+\\ Set up automatic features such as notifications and emails
+
+Students-
+Students would sign in and be taken to a Dashboard which has a greeting personalized with the student’s preferred name and avatar
+Students would be able to see badges that they earned
+The dashboard should have calendar, announcement, progress, and study widgets
+The dashboard should have a button that takes students to today’s standards
+
+When students are working on standards each screen should be visually appealing and not crowded. White space around problems is ideal. Problems should involve animation where it makes sense to the problem
+Teachers-
+Teachers would sign in and be taken to a Dashboard that is pleasant and organized
+The Dashboard should give access to classes, overall calendar, notifications and standards
+Teachers should see a list of their classes that allows them to click on a class to open it.
+When a class is open, the teacher should be directed to a class dashboard that has students, assignments calendar, and class admin options (add announcements, award badges).
+Teachers should be able to access the Standards apart from within the class
+When teachers access the standards, they should be able to browse all available standards and dig into their related objectives. From there, teachers should be able to choose standards and objectives to assign (set dates, point values, etc.)
+
+Parents-
+Parents should have a dashboard that connects them to their children and displays announcements
+When they click on a child’s name, they should be directed to a page that displays the child’s progress bars, calendar of assignments, and time log
+
+
+Works Cited
+“Amplify Desmos Math | Mathematics Curriculum - Problem Based Math.” Amplify, https://amplify.com/programs/amplify-desmos-math/. Accessed 17 May 2024.
+“Join Khan Academy and learn with us.” Khan Academy, https://www.khanacademy.org/teacher/dashboard. Accessed 17 May 2024.
+“Learn Geometry.” IXL, https://www.ixl.com/math/geometry. Accessed 17 May 2024.
+
+
+Presentation Link:
+https://www.canva.com/design/DAGFcfsN01I/40NmYAmWY8rcrdgMXks_Gg/edit?utm_content=DAGFcfsN01I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
